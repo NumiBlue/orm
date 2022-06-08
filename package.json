@@ -1,0 +1,19 @@
+{
+  "name": "orm",
+  "version": "1.0.0",
+  "description": "\"back-end for e-commerce store\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "'test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumiBlue/orm.git"
+  },
+  "author": "numiblue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NumiBlue/orm/issues"
+  },
+  "homepage": "https://github.com/NumiBlue/orm#readme"
+}
